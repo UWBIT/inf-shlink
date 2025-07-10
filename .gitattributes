@@ -21,3 +21,9 @@ phpunit-api.xml export-ignore
 phpunit-db.xml export-ignore
 phpstan.neon
 *.sh text eol=lf
+*.php text eol=lf
+*.env text eol=lf
+Dockerfile text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+Makefile text eol=lf
