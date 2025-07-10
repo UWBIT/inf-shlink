@@ -20,3 +20,4 @@ phpunit.xml.dist export-ignore
 phpunit-api.xml export-ignore
 phpunit-db.xml export-ignore
 phpstan.neon
+*.sh text eol=lf
